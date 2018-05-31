@@ -1,5 +1,6 @@
 <?php
 	echo "Hello";
+	echo "Hello";
 ?>
 <div class="site-about container">
     <h1>About</h1>
