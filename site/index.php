@@ -1,7 +1,7 @@
 <?php
-	echo "Hello";
+	echo "Good Bay";
 
-	echo "Hello new branch";
+	echo "Hello old branch";
 
 	
 ?>
