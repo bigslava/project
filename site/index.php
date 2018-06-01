@@ -1,7 +1,12 @@
 <?php
 	echo "Hello";
+<<<<<<< HEAD
 	echo "Hello new branch";
 
+=======
+	echo "Hello new_f";
+	
+>>>>>>> master
 	
 ?>
 <div class="site-about container">
