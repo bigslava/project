@@ -1,7 +1,6 @@
 <?php
 	echo "Hello";
-	echo "Hello";
-	echo "Hello";
+
 	
 ?>
 <div class="site-about container">
