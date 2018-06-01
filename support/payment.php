@@ -1,4 +1,4 @@
- <div class="accounts" style="padding: 10px 15px">
+ <div class="container" style="padding: 10px 15px">
     
 	<h1>Оплата</h1>
 		<p>
