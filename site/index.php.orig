@@ -1,0 +1,12 @@
+<?php
+
+<<<<<<< HEAD
+	echo "Good Bay new branch and new_f";
+
+
+=======
+	echo "Hello old branch";
+>>>>>>> master
+	
+?>
+
