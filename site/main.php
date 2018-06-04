@@ -4,3 +4,6 @@
 <?php
 	echo "Good Bay new branch and new_f";
 ?><br>
+<?php
+	echo "OK, Good Bay";
+?>
