@@ -10,5 +10,8 @@
 <?php
 	echo "Hello, Hello, Hello";	
 ?><br>
+<?php
+	echo "Hello, Hello, Hello";	
+?>
 
 
