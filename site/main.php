@@ -1,11 +1,6 @@
-
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Main</title>
-</head>
-<body>
-<h1>Главная страница</h1>
-</body>
-</html>
+<?php
+	echo "Good Bay";
+?><br>
+<?php
+	echo "Good Bay new branch and new_f";
+?><br>
