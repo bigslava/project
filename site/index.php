@@ -12,6 +12,9 @@
 ?><br>
 <?php
 	echo "Hello, Hello, Hello";	
+?><br>
+<?php
+	echo "Привет, напарник";	
 ?>
 
 
